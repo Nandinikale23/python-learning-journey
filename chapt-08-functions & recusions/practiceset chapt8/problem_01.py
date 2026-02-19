@@ -1,0 +1,17 @@
+# WAP using funtions to find greatest of three numbers.
+
+
+
+def greatest(a,b,c):
+    if(a>b and a>c):
+        return a
+    elif(b>a and b>c):
+        return b
+    elif(c>b and c>a):
+        return c
+    
+a=2
+b=1
+c=9
+
+print(greatest(a,b,c))
