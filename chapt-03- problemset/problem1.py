@@ -1,4 +1,4 @@
-#WAP to display a user entered name followed by good moening using input()fun
+#WAP to display a user entered name followed by good morning using input()fun
 # so me used f means apstring
 
 name=input("enter your name:")
