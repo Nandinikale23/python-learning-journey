@@ -1,5 +1,5 @@
 #typecasting
-#convert str int int external typecasting 
+#convert str into int external typecasting 
 a="23"
 b=type(a)
 print(b)
@@ -13,3 +13,5 @@ b=type(a)
 print(b)
 c=str("b")
 print(type(c))
+
+
