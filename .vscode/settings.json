@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./chapt-11 -Advance python/06_"
+    ]
+}
