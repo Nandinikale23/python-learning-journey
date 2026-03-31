@@ -11,9 +11,9 @@ for i in range(20):
     
 #continue
 for i in range(10):
-    if(i==5):
-        continue  # 5 is skip and run next 
-    print(i)
+     if(i==5):
+         continue  # 5 is skip and run next 
+     print(i)
     
 #pass
 for i in range(6):
