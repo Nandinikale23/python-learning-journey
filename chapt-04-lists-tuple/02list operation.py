@@ -41,6 +41,7 @@ students[1:4]='m','n','o'
 print(students)
 
 
+
 #handy methods
    #reverse()
    #sort()
@@ -54,6 +55,12 @@ print(l1)
 l1.sort()
 print(l1)
 
+#Access first and last element of a list.
+'''The first element is accessed using index 0, and the last element is accessed using index -1'''
+first= l1[0]
+last=l1[-1]
+print(first)
+print(last)
 
 
 
