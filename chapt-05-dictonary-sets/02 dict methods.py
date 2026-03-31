@@ -38,7 +38,7 @@ print(f1)
      #pop():specific key:value dlt 
      #popitem():last dlt
      #del keyword:
-     #lear():all clear provide empy dict
+     #clear():all clear provide empy dict
      
 #1. pop()
 city={"pune":10,"nashik":8,"latur":5,"bid":6}
