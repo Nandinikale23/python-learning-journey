@@ -1,3 +1,7 @@
+#string:= group of chars define using '',""
+#string in immutable
+
+
 #find len of string
 name="nandinikale"
 print(len(name))
