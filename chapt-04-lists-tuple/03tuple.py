@@ -3,7 +3,7 @@ print(type(a))
 
 #tuple is immutable
 b=(5,3,4,23,45,31)
-b[0]=22
+#b[0]=22
 print(b)#this is not possible because tuple is immutable
 
 #methods of tuple
@@ -15,3 +15,7 @@ print(b)#this is not possible because tuple is immutable
     #len():
     
 # we can use slicing in tuple 
+#Access first and last element of a tuple.
+first= b[0]
+last = b[-1]
+print(first,last)
