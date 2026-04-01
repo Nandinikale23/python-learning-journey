@@ -15,6 +15,7 @@ Here you will find:
 * Functions and recursion
 * Loops and conditionals
 * File handling
+* oops concepts
 * Data structures practice
 * Mini projects
 * Daily coding exercises
