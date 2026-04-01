@@ -1,3 +1,19 @@
+#class:= class is blueprint of creating object 
+       # class is collection of objects
+       #class first letter is always capital
+       
+       
+#object:= object is a instance of class
+        # object is think like real world thing 
+        
+class Person:
+    pass
+
+obj=Person()
+print(type(obj))
+print(obj)  #it gives address of object in output
+
+
 class Employee:
     lang = "py" # this is class attributes
     salary= 200000
